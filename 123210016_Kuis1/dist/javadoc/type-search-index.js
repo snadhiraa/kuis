@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"pkg123210016_kuis1","l":"BiodataPenilaianKaryaTulis"},{"p":"pkg123210016_kuis1","l":"BiodataPenilaianPuisi"},{"p":"pkg123210016_kuis1","l":"KategoriLomba"},{"p":"pkg123210016_kuis1","l":"Main"}]
